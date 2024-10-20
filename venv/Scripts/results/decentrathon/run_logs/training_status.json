@@ -1,0 +1,29 @@
+{
+    "My Behavior": {
+        "checkpoints": [
+            {
+                "steps": 284698,
+                "file_path": "results\\decentrathon\\My Behavior\\My Behavior-284698.onnx",
+                "reward": -58.56240592338145,
+                "creation_time": 1729360799.9564252,
+                "auxillary_file_paths": [
+                    "results\\decentrathon\\My Behavior\\My Behavior-284698.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 284698,
+            "file_path": "results\\decentrathon\\My Behavior.onnx",
+            "reward": -58.56240592338145,
+            "creation_time": 1729360799.9564252,
+            "auxillary_file_paths": [
+                "results\\decentrathon\\My Behavior\\My Behavior-284698.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.0+cpu"
+    }
+}

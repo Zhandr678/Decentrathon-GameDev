@@ -1,0 +1,29 @@
+{
+    "CarMovement": {
+        "checkpoints": [
+            {
+                "steps": 1344,
+                "file_path": "results\\ppo\\CarMovement\\CarMovement-1344.onnx",
+                "reward": null,
+                "creation_time": 1729262418.0434527,
+                "auxillary_file_paths": [
+                    "results\\ppo\\CarMovement\\CarMovement-1344.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 1344,
+            "file_path": "results\\ppo\\CarMovement.onnx",
+            "reward": null,
+            "creation_time": 1729262418.0434527,
+            "auxillary_file_paths": [
+                "results\\ppo\\CarMovement\\CarMovement-1344.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.5.0+cpu"
+    }
+}
